@@ -1,3 +1,3 @@
 Description of scripts:
-1. pricepredappend.py: for a given range of dates, merges the Kaggle dataset to the Yahoo Finance dataset, merging with date as a key.
+1. priceapp.py: for a given range of dates, merges the Kaggle dataset to the Yahoo Finance dataset, merging with date as a key.
 2. datapreprocessing.ipynb: removes spam tweets, performs data augmentation and provides descriptive stats.
